@@ -14,7 +14,7 @@ Explanation: I run the tests using the command `bash test.sh`. There seems to be
 ## 4. Edit Code  
 ![Image](vim_open.png)  
 ![Image](vim_opened.png)  
-Explanation: To start edit ListExamples.java, I used the command `vim ListExamples.java`.    
+Explanation: To start edit ListExamples.java, I used the command `vim ListExamples.java`.        
 ![Image](fix_error.png)  
 Explanation:  
 

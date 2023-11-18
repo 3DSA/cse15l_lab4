@@ -16,13 +16,13 @@ Explanation: I run the tests using the command `bash test.sh`. There seems to be
 ![Image](vim_opened.png)  
 Explanation: To start edit ListExamples.java, I used the command `vim ListExamples.java`.        
   ![Image](fix_error.png)  
-Explanation:  
+Explanation: To find merge, I type the command `/merge` into vim, which helps me find the merge method. I use the down arrow key to scroll down. I see the comment `//change index1 below to index2 to fix the test`. I press `i` to go into insert mode. I move my cursor using the keys to right after the `1` on `index1`, press `delete` on my keyboard, and then type `2` so it now says `index2`. I press `esc` so it goes back into normal mode. I type `:wq` so I can save the file I just edited and exit vim.    
 
 ## 5. New Tests  
 ![Image](fixed_tests.png)  
-Explanation:  
+Explanation: After the edit, all the tests were passed.    
 
 ## 6. Git Push  
 ![Image](gitpush.png)  
 ![Image](github_web.png)  
-Explanation:  
+Explanation:  I used the command `git add` so it can add the changes I made to the local server. I then ran `git commit -m` so I could save all the changes I made with `git add` and be ready for a path; `-m` is for a message to be shown of what edits I made. I used `git push` to push the changes made to the remote repository.   

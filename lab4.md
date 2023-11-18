@@ -12,7 +12,7 @@ Explanation:
 ![Image](vim_open.png)  
 ![Image](vim_opened.png)  
 Explanation:  
-![Image](fixed_error.png)  
+![Image](fix_error.png)  
 Explanation:  
 ## 5. New Tests  
 ![Image](fixed_tests.png)  

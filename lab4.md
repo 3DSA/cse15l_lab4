@@ -15,7 +15,7 @@ Explanation: I run the tests using the command `bash test.sh`. There seems to be
 ![Image](vim_open.png)  
 ![Image](vim_opened.png)  
 Explanation: To start edit ListExamples.java, I used the command `vim ListExamples.java`.        
-![Image](fix_error.png)  
+  ![Image](fix_error.png)  
 Explanation:  
 
 ## 5. New Tests  

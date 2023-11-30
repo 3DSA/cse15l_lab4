@@ -1,7 +1,9 @@
 # Lab Report 4  
 ## 1. Login  
 ![Image](Login.png)  
-Explanation: I logged in to ieng6 with my username. It did not prompt for a password since I had set up the ssh key(finally worked).    
+Explanation: I logged in to ieng6 with my username. It did not prompt for a password since I had set up the ssh keys.  
+Typed in `ssh cs15lfa23ez@ieng6.ucsd.edu`  
+Keys Pressed: <Enter>  
 
 ## 2. Clone with SSH URL  
 ![Image](Clone.png)  

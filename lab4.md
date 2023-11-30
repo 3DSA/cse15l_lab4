@@ -30,8 +30,16 @@ Deletion: '1`
 ## 5. New Tests  
 ![Image](fixed_tests.png)  
 Explanation: After the edit, all the tests were passed.    
+Typed in: `bash test.sh`  
+Keys Pressed: <kbd>Enter</kbd>  
 
 ## 6. Git Push  
 ![Image](gitpush.png)  
 ![Image](github_web.png)  
-Explanation:  I used the command `git add` so it can add the changes I made to the local server. I then ran `git commit -m` so I could save all the changes I made with `git add` and be ready for a path; `-m` is for a message to be shown of what edits I made. I used `git push` to push the changes made to the remote repository.   
+Explanation:  I used the command `git add` so it can add the changes I made to the local server. I then ran `git commit -m` so I could save all the changes I made with `git add` and be ready for a path; `-m` is for a message to be shown of what edits I made. I used `git push` to push the changes made to the remote repository.  
+Typed in: `git add ListExamples.java`  
+Keys Pressed: <kbd>Enter</kbd>  
+Typed in: `git commit -m "Fixed test errors"`  
+Keys Pressed: <kbd>Enter</kbd>  
+Typed in: `git push`  
+Keys Pressed: <kbd>Enter</kbd>  

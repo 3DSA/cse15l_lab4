@@ -24,7 +24,7 @@ Keys Pressed: <kbd>Enter</kbd>
   ![Image](fix_error.png)  
 Explanation: To find merge, I type the command `/merge` into vim, which helps me find the merge method. I use the down arrow key to scroll down. I see the comment `//change index1 below to index2 to fix the test`. I press `i` to go into insert mode. I move my cursor using the keys to right after the `1` on `index1`, press `delete` on my keyboard, and then type `2` so it now says `index2`. I press `esc` so it goes back into normal mode. I type `:wq` so I can save the file I just edited and exit vim.  
 Search String: `/merge`  
-Keys pressed: <kbd>i</kbd> <kbd>↓</kbd> <kbd>→</kbd> <kbd>delete</kbd> <kbd>2</kbd> <kbd>:wq!</kbd> <kbd>Enter</kbd>  
+Keys pressed:  <kbd>/merge</kbd> <kbd>i</kbd> <kbd>↓</kbd> <kbd>→</kbd> <kbd>delete</kbd> <kbd>2</kbd> <kbd>:wq!</kbd> <kbd>Enter</kbd>  
 Deletion: ```1```  
 
 ## 5. New Tests  

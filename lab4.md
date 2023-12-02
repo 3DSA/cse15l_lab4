@@ -8,12 +8,12 @@ Keys Pressed: <kbd>`<`Enter`>`</kbd>
 ![Image](Clone.png)  
 Explanation: I first forked the lab7 repo on the GitHub website. Then I used the SSH URL to clone it.    
 Typed in: `git clone` followed by SSH URL  
-Keys Pressed: <kbd>Enter</kbd>  
+Keys Pressed: <kbd>`<`Enter`>`</kbd>  
 ## 3. Tests  
 ![Image](Tests.png)  
 Explanation: I run the tests using the command `bash test.sh`. There seems to be an error in `ListExamples.java` with `merge`.    
 Typed in: `bash test.sh`  
-Keys Pressed: <kbd><Enter></kbd>  
+Keys Pressed: <kbd>`<`Enter`>`</kbd>  
 ## 4. Edit Code  
 ![Image](vim_open.png)  
 ![Image](vim_opened.png)  

@@ -1,4 +1,5 @@
 # Lab Report 4  
+used `<kbd>` `</kbd>` for keys pressed
 ## 1. Login  
 ![Image](Login.png)  
 Explanation: I logged in to ieng6 with my username. It did not prompt for a password since I had set up the ssh keys.  

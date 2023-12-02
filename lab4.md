@@ -13,7 +13,7 @@ Keys Pressed: `<`<kbd>Return</kbd>`>`
 ![Image](Tests.png)  
 Explanation: I run the tests using the command `bash test.sh`. There seems to be an error in `ListExamples.java` with `merge`.    
 Typed in: `bash test.sh`  
-Keys Pressed: `<`<kbd>`<`Return`>`</kbd>`>`  
+Keys Pressed: `<`<kbd>Return</kbd>`>`  
 ## 4. Edit Code  
 ![Image](vim_open.png)  
 ![Image](vim_opened.png)  

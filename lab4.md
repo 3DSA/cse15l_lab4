@@ -4,7 +4,6 @@
 Explanation: I logged in to ieng6 with my username. It did not prompt for a password since I had set up the ssh keys.  
 Typed in: `ssh cs15lfa23ez@ieng6.ucsd.edu`  
 Keys Pressed: <kbd>Enter</kbd>  
-`<up>`
 ## 2. Clone with SSH URL  
 ![Image](Clone.png)  
 Explanation: I first forked the lab7 repo on the GitHub website. Then I used the SSH URL to clone it.    
